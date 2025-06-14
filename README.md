@@ -1,2 +1,2 @@
-# opk_2nd_semester
-задачки + проект
+# opk_tasks
+задачки 
